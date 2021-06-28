@@ -7,10 +7,9 @@ import java.util.Random;
 
 
 public class Library {
-    public boolean someLibraryMethod() {
-        return true;
-    }
-
+//    public boolean someLibraryMethod() {
+//        return true;
+//    }
 
         public static void main(String[] args) {
 
